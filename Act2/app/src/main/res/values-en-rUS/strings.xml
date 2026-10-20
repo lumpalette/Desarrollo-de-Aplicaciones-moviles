@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project</string>
+    <string name="image_description">Illustration showing the moon in a clear sky.</string>
+    <string name="subject">Mobile app development</string>
+    <string name="name">Betabel</string>
+    <string name="last_name">Cuyotez</string>
+</resources>
